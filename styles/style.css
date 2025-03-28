@@ -186,7 +186,7 @@
 
 .main__button-save {
   border: 2px solid var(--Border-color);
-  width: clamp(19.125rem, 18.487rem + 2.72vw, 20.938rem); 
+  width: clamp(19.125rem, 18.487rem + 2.72vw, 20.938rem);
   display: flex;
   column-gap: 8px;
   justify-content: center;
