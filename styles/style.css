@@ -243,6 +243,11 @@
   mix-blend-mode: difference;
 }
 
+.dialog__button__floppy {
+  stroke: #fff;
+  mix-blend-mode: difference;
+}
+
 .brightness {
   filter: brightness(50%);
 }
