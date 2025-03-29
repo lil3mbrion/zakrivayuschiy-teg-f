@@ -1,6 +1,6 @@
 :root {
-  --Inter: 'Inter-Variable', sans-serif;
-  --PressStart: 'PressStart2P-Regular', sans-serif;
+  --Main-font: 'Inter-Variable';
+  --Secondary-font: 'PressStart2P-Regular';
   --Regular: 400;
   --Bold: 700;
   --Text-stroke-color: #fff;
